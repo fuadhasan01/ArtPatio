@@ -73,6 +73,3 @@ just download the code and upload the "art_patio" database in the myphpadmin via
 |----------|--------------|
 | <img src="Screenshot/Bidding For Arts.png" alt="Auction" /> | <img src="Screenshot/Art Exhibition Page 1.png" alt="Exhibition" /> |
 
-
-## Need Help?
-**Email:** [Syed Eftasum Alam](mailto:salam201133@bscse.uiu.ac.bd)
